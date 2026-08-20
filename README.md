@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40)
+
 # 👋 Hi, I'm Vazha!
 
 💻 Beginner Web Developer  
@@ -24,12 +26,6 @@ learning programming and experimenting with new technologies.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Vazha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vajikojamaspishvili900-rgb&show_icons=true&theme=radial)
 
 ---
 
