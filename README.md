@@ -27,6 +27,12 @@ learning programming and experimenting with new technologies.
 
 ---
 
+## 📊 GitHub Stats
+
+![Vazha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vajikojamaspishvili900-rgb&show_icons=true&theme=radial)
+
+---
+
 ## 🚀 My Projects
 
 ### 🌐 My Website
